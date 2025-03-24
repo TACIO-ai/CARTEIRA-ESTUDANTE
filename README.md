@@ -1,6 +1,6 @@
 # 📔 Carteira do Estudante Digital
 
-**Projeto desenvolvido para a disciplina de Programação Web, utilizando Vue.js e Git para controle de versão.**
+**Projeto desenvolvido para a disciplina de Programação Back e Front End, utilizando Vue.js e Git para controle de versão.**
 
 ## 📋 Descrição
 Sistema de Carteira do Estudante dinâmica com formulário de preenchimento e visualização em tempo real.
