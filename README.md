@@ -1,16 +1,11 @@
-# Carteira de Estudante - Versão 01
-
-Este projeto é a versão 01 da Carteira de Estudante, desenvolvida com Vue.js.
+# Carteira de Estudante - Versão 1.0
 
 ## Passos para criação:
-
-1.  Criação do repositório local e arquivos iniciais.
-2.  Instalação do Vue.js.
-3.  Criação do arquivo `index.html` com a estrutura básica.
-4.  Criação do arquivo `main.js` com a instância Vue.
-5.  Exibição do "Olá, Mundo!" na tela.
-
-## Próximos passos:
-
-* Desenvolver a versão 2 com formulário e lista.
-* Desenvolver a versão 3 com a carteirinha completa.
+1. Iniciar Git: `git init`
+2. Criar arquivos vazios (commit 0.1).
+3. Adicionar HTML (commit 0.2) com diretivas Vue da apostila:
+   - `v-text`: Exibe texto dinâmico.
+   - `v-bind`: Liga atributos HTML a dados Vue.
+   - `v-for`: Renderiza lista iterável.
+4. Adicionar lógica Vue em `app.js` (commit 0.3).
+5. Subir para GitHub como repositório privado.
