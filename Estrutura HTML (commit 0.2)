@@ -14,7 +14,7 @@
     <!-- Diretiva v-text (apostila) -->
     <h1 v-text="titulo"></h1>
     <!-- Diretiva v-bind (apostila) -->
-    <div v-bind:class="classeDinamica">Olá, Vue!</div>
+    <div v-bind:class="classeDinamica">Olá, Mundo!</div>
     <!-- Diretiva v-for (apostila) -->
     <ul>
       <li v-for="item in listaItens" v-text="item"></li>
