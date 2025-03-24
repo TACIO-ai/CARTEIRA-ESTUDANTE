@@ -1,0 +1,11 @@
+const { createApp } = Vue;
+
+createApp({
+  data() {
+    return {
+      titulo: "Carteira de Estudante v1.0", // v-text usa isso
+      classeDinamica: "destaque", // v-bind:class usa isso
+      listaItens: ["Item 1", "Item 2", "Item 3"] // v-for usa isso
+    };
+  }
+}).mount('#app'); 

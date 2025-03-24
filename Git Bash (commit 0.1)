@@ -1,0 +1,7 @@
+mkdir carteira-estudante 
+cd carteira-estudante
+git init
+
+touch index.html app.js README.md
+git add .
+git commit -m "0.1 - ARQUIVOS VAZIOS"

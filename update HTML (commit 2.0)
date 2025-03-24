@@ -1,0 +1,8 @@
+<!-- Adicionar ao #app (index.html) -->
+<form>
+  <input v-model="novoItem" placeholder="Digite um item">
+  <button v-on:click.prevent="listaItens.push(novoItem); novoItem = ''">Adicionar</button>
+  <label>
+    <input type="checkbox" v-model="modoEscuro"> Modo Escuro
+  </label>
+</form> 
